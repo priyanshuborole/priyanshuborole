@@ -45,15 +45,15 @@
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align ='center' src="https://github-readme-stats.vercel.app/api?username=priyanshuborole&count_private=true&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshuborole&count_private=true&show_icons=true&theme=radical" />
 </a>
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align ='center'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuborole&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuborole&theme=radical" />
 </a>
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align ='center' src="https://github-readme-streak-stats.herokuapp.com?user=priyanshuborole&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshuborole&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 </a>
 <br>
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
